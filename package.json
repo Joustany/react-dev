@@ -1,6 +1,6 @@
 {
-  "name": "react-redux-starter-kit",
-  "version": "3.0.0-alpha.2",
+  "name": "react-dev",
+  "version": "0.0.1",
   "description": "Get started with React, Redux, and React-Router!",
   "main": "index.js",
   "engines": {
@@ -73,8 +73,8 @@
     "type": "git",
     "url": "https://github.com/Joustany/react-dev.git"
   },
-  "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
-  "license": "MIT",
+  "author": "joustany <joustany.cn@gmail.com> )",
+  "license": "Apache",
   "dependencies": {
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",
